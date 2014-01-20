@@ -1,0 +1,11 @@
+{
+  "name": "constitution",
+  "version": "0.0.0",
+  "description": "Foundations for state of the art web app done right.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilan Arad <ilan@decodecode.net>",
+  "license": "No"
+}

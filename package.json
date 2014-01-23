@@ -1,11 +1,20 @@
 {
-  "name": "constitution",
-  "version": "0.0.0",
-  "description": "Foundations for state of the art web app done right.",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Ilan Arad <ilan@decodecode.net>",
-  "license": "No"
+	"name": "constitution",
+	"version": "0.0.1",
+	"description": "Foundations for state of the art web apps done right.",
+	"private":false,
+	"engines":{
+		"node":"0.10.x",
+		"npm":"1.3.x"
+	},
+	"main": "server.coffee",
+	"scripts": {
+		"start":"coffee server.coffee",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies":{
+		"level":"0.18.x"
+	},
+	"author": "Ilan Arad <ilan@decodecode.net>",
+	"license": "No"
 }

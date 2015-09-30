@@ -1,20 +1,33 @@
-Constitution
-#############
+Constitution: a Software Engineering Manifesto for Web Apps
+==============================================================
 
-Opinionated framework for modern Web applications: CoffeeScript, Socket.IO, LevelDB…
+Constitution is a high level platform for bleeding edge web applications development done right!
+It's an opinionated framework and methodology built upon radical technologies: CoffeeScript, Socket.IO, LevelDB, Cake, Double Macchiato, Flexbox… Docker?
 
-Features and Principles
-=======================
+In other words, it's a defense system against the MVC/OOP idiocracy plaguing the web technologies ecosystem as of late. There's a growing (counter-)movement — a resistance, avantgarde, awakening — documenting the horrors of this plague and advocating solutions.
 
-1. Web/Sockets server(s): Express and Socket.IO based. Abstracted API, inspired by Zappa, Express.IO. (Maybe also Koa?)
-1. DSLs: CoffeeScript, Stylus
+Constitution aims to… offer a technological solution to a key challenge startups face, namely, lack of software engineering insight.
+
+Key Features and Principles
+---------------------------------
+
+1. Single Page Application; cf Static App Manifesto
+1. Realtime, WebSocket; cf Reactive Manifesto
 1. WYSIWYG and contenteditable
-1. Asset pipeline
-1. Automation
-1. Scaffolding
-1. Deployment and hosting
+1. Domain specific languages: CoffeeScript, Stylus, Double Macchiato?
+1. Continuous delivery
+1. 12 Factors Manifesto
+1. Scaffolding (skeletons)
 1. Testing
+1. Dreamcode
 1. Opinionated
-1. Single page app (SPA); Static App Manifesto
-1. Realtime
-1. 12 Factors App Manifesto
+1. Asset pipeline
+1. Feature toggling
+
+…
+
+Roadmap?
+-----------
+
+1. Demo apps…
+1. Express.IO (or Zappa?): adopt API, but upgrade deps…

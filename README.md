@@ -13,18 +13,15 @@ Key Features and Principles
 
 1. Single Page Application; cf Static App Manifesto
 1. Realtime, WebSocket; cf Reactive Manifesto
-1. WYSIWYG and contenteditable
 1. Domain specific languages: CoffeeScript, Stylus, Double Macchiato?
-1. Continuous delivery
+1. Dreamcode; opinionated; good magic vs bad magic
 1. 12 Factors Manifesto
 1. Scaffolding (skeletons)
-1. Testing
-1. Dreamcode
-1. Opinionated
-1. Asset pipeline
-1. Feature toggling
+1. Testing — or not
 
 …
+continuous delivery,
+asset pipeline, feature toggling, auth, WYSIWYG/contenteditable
 
 Roadmap?
 -----------

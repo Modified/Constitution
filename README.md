@@ -6,9 +6,7 @@ It's an opinionated framework and methodology built upon radical technologies: C
 
 Constitution aims to… offer a technological solution to a key challenge startups face, namely, lack of software engineering insight… and technophobia?
 
-In other words, Constitution is a defense system against the MVC/OOP idiocracy plaguing the web technologies ecosystem as of late. It joins a growing (counter-)movement — a resistance, avantgarde, awakening — documenting the horrors of this disaster and advocating solutions.
-
-Purpose: Begin With End in Mind
+Goals: Begin With End in Mind
 -----------------------------------
 
 1. Time to market: modifiability, release early and often
@@ -59,6 +57,8 @@ WYSIWYG/contenteditable.
 
 Evangelism / Politics
 ------------------------
+
+1. Constitution is a defense system against the MVC/OOP idiocracy (or zombie infestation?) plaguing the web technologies ecosystem as of late. It joins a growing (counter-)movement — a resistance, avantgarde, awakening — documenting the horrors of this disaster and advocating solutions.
 
 …
 

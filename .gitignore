@@ -7,11 +7,12 @@ node_modules/
 npm-debug.log
 
 # Generated or temporary stuff.
+build/
+#??? client/lib/ instead of these extensions?
 *.html
 *.css
 *.js
 *.zip
-build/
 
-# Database?
+# Data.
 data/

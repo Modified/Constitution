@@ -1,0 +1,17 @@
+# Editor backups.
+*~
+*.bak
+
+# NPM's stuff.
+node_modules/
+npm-debug.log
+
+# Generated or temporary stuff.
+*.html
+*.css
+*.js
+*.zip
+build/
+
+# Database?
+data/

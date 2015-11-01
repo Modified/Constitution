@@ -10,11 +10,9 @@
 	"main": "server.coffee",
 	"scripts": {
 		"start":"coffee server.coffee",
-		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"dependencies":{
-		"level":"0.18.x"
 	},
-	"author": "Ilan Arad <ilan@decodecode.net>",
+	"author": "Ilan <ilan@decodecode.net>",
 	"license": "No"
 }
